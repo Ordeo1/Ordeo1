@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ordeo1
 - 👀 I’m interested in learning about so many topics and subject matter; as much as my brain can aggrigate.
-- 🌱 I’m currently learning about github and applying what I learn to things I will stuble across.
+- 🌱 I’m currently learning about github and applying what I learn to things I will stumble across.
 - 💞️ I’m looking to collaborate on collaborative projects.
 - 📫 How to reach me - I am ok to give my details when needed.
 
